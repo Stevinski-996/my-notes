@@ -10,4 +10,4 @@ as i am coming from a non programming background ill be struggling a little with
 This lab is an introduction for the git system & github platform and how can i work with both system so i can share my work with TAs and thats for : 
 
 * Marking the understanding of the class
-* learning more from the experience iam trying and learning more commands 
+* learning more from the experience iam trying and learning more commands .
